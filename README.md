@@ -2,6 +2,8 @@
 
 This is a repository of the final integrated project. This repository includes 3 mobile pages, and a desktop page of a remake for Couples Resort
 
+![Couples Resort Logo](./images/couples_resort_logo.svg "Couples Resort")
+
 ## Installation ⬇️
 
 No installation required. Download the zip file and extract.
